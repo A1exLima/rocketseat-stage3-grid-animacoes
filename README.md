@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 <p align="start">
-Nesse projeto foi recriado uma aplicação avançada, a partir de um layout pronto no figma. Foi usado no código CSS conceitos de variaveis, configurações root, criação de animações e display Grid. </p>
+Nesse projeto foi recriado uma aplicação avançada, a partir de um layout pronto no figma. Foi usado no código CSS conceitos de variaveis, configurações root, criação de animações, media queries e display Grid. </p>
 
 ## 🔖 Layout
 
@@ -39,7 +39,7 @@ Esse projeto está sob a licença MIT.
 <p align="center">Feito com  ♥  by Alex Lima</p>
 
 <p align="center">Você pode acessar o Website do projeto através do link: 
-<a href= "https://alima07.github.io/rocketseat-stage3-CSS-avancado-mobile-first" target="_blank"> Clique aqui ⏯ </a>
+<a href= "https://alima07.github.io/rocketseat-stage3-grid-animacoes" target="_blank"> Clique aqui ⏯ </a>
 </p>
 
 
