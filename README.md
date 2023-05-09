@@ -1,45 +1,45 @@
-<h1 align="center"> Avançando CSS - Grid com Animações 💜 </h1>
+<h1 align="center"> Advancing CSS - Grid with Animations 💜 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-License">License</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Avançando CSS" src="./public/images/readme.png" width="100%">
+  <img alt="Advancing CSS" src="./public/images/readme.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
 <p align="start">
-Nesse projeto foi recriado uma aplicação avançada, a partir de um layout pronto no figma. Foi usado no código CSS conceitos de variaveis, configurações root, criação de animações, media queries e display Grid. </p>
+In this project, an advanced application was recreated, based on a ready-made layout in figma. Concepts of variables, root configurations, creation of animations, media queries and Grid display were used in the CSS code. </p>
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/9l0adrFCIzAxjfSZy7r5KK/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0%3A3&t=jg8hQwG37TRVigsM-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can preview the project layout through [DESSE LINK](https://www.figma.com/file/9l0adrFCIzAxjfSZy7r5KK/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0%3A3&t=jg8hQwG37TRVigsM-0). It is necessary to have an account on [Figma](https://figma.com) to access it.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is licensed under the MIT license.
 
 ---
 
-<p align="center">Feito com  ♥  by Alex Lima</p>
+<p align="center">Done with  ♥  by Alex Lima</p>
 
-<p align="center">Você pode acessar o Website do projeto através do link: 
-<a href= "https://alima07.github.io/rocketseat-stage3-grid-animacoes" target="_blank"> Clique aqui ⏯ </a>
+<p align="center"> You can access the project website through the link:
+<a href= "https://alima07.github.io/rocketseat-stage3-grid-animacoes" target="_blank"> Click here ⏯ </a>
 </p>
 
 
