@@ -28,7 +28,7 @@ In this project, an advanced application was recreated, based on a ready-made la
 
 ## 🔖 Layout
 
-You can preview the project layout through [DESSE LINK](https://www.figma.com/file/9l0adrFCIzAxjfSZy7r5KK/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0%3A3&t=jg8hQwG37TRVigsM-0). It is necessary to have an account on [Figma](https://figma.com) to access it.
+You can preview the project layout through [OF THAT LINK](https://www.figma.com/file/9l0adrFCIzAxjfSZy7r5KK/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0%3A3&t=jg8hQwG37TRVigsM-0). It is necessary to have an account on [Figma](https://figma.com) to access it.
 
 ## :memo: License
 
